@@ -41,6 +41,7 @@
 
     // Editor widget
     "editorWidget.background": "#161616",
+    "pickerGroup.foreground": "#E6E6E6",
 
     // Title bar
     "titleBar.activeBackground": "#131419",
@@ -114,7 +115,7 @@
     "focusBorder": "#FFFFFF16",
 
     // Notifications
-    "notifications.background": "#2C2C31",
+    "notifications.background": "#161616",
     "notifications.foreground": "#E6E6E6",
     "notifications.border": "#202127",
 
@@ -151,7 +152,7 @@
     "editorSuggestWidget.selectedBackground": "#FFFFFF16",
 
     // Dropdown
-    "dropdown.background": "#2C2C31",
+    "dropdown.background": "#161616",
     "dropdown.foreground": "#E6E6E6",
     "dropdown.border": "#202127",
 
